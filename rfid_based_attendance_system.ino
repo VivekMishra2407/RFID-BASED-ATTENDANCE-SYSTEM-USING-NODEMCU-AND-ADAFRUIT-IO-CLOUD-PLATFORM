@@ -11,7 +11,7 @@
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883
 #define AIO_USERNAME    "Vivek2407"
-#define AIO_KEY         "aio_cnLO823aDKG449dnbKaTrUHF1BZV"
+#define AIO_KEY         "**********"     // This can be generated from adafruit io cloud platform  
 
 constexpr uint8_t RST_PIN = D3;     // Configurable, see typical pin layout above
 constexpr uint8_t SS_PIN = D4;     // Configurable, see typical pin layout above
